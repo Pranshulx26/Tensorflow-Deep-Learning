@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.zip
+pizza_steak/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db   
